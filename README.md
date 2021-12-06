@@ -2,7 +2,7 @@
 
 # Playwright-python template 🍪
 
-Template to quickly start your playwright-python project
+Template to quickly start your [playwright-python](https://github.com/microsoft/playwright-python) project
 
 [Getting started](#getting-started) •
 [Demo](#demo) •
@@ -88,4 +88,6 @@ chromium_args:  # <list[str]> list of chromium command line switches
     - --window-size=800,600
     - --user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
 ```
-A list of chromium command line switches can be found [here](https://peter.sh/experiments/chromium-command-line-switches/). Note that more options will also be added in the future.
+A list of chromium command line switches can be found [here](https://peter.sh/experiments/chromium-command-line-switches/). 
+
+Note that more options will also be added in the future.
